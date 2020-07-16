@@ -10,3 +10,5 @@ Its easy to add, edit, and remove your current positions and also mark whether y
 Your current and past positions are stored in a google database and can be seen in the app, or exported to a csv file directly to google drive or sent in an email.
 
 Sign in with your google account to have your data available on any device you have the app on.
+
+[Privacy Policy](https://github.com/rmbryla/WheelTracker/blob/master/privacyPolicy.md)
